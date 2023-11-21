@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ma02_20200987</string>
+    <string name="api_key">AIzaSyA2acmrt55_DDU15eMLrrGufCjV5UhRjN4</string>
+    <string name="menu_home">홈</string>
+    <string name="menu_search">검색</string>
+    <string name="menu_folder">보관함</string>
+    <string name="init_lat">37.606537</string>
+    <string name="init_lng">127.041758</string>
+    <string name="keyword_hint">원하는 위치 입력</string>
+</resources>
